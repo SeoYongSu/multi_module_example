@@ -1,0 +1,4 @@
+rootProject.name = 'multi_modules-example'
+
+include "lv1_api", "lv2_api"
+include "core"

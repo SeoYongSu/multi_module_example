@@ -1,0 +1,13 @@
+
+server:
+  port: 7772
+
+spring:
+  application:
+    name: lv2_api
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: moduleTest
